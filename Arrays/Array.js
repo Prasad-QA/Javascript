@@ -32,3 +32,12 @@ console.log(total)
 
 let person = new Person("age")
 console.log(person.age())
+
+
+for(let score of marks)
+    
+    {
+        console.log(score)
+
+
+}
